@@ -10,6 +10,7 @@ This tool is easy to use and enables you to convert amounts between a variety of
 2. Install the required libraries using pip (Python's package manager). Open a command prompt and run the following commands:
 
 -pip install PySide6
+
 -pip install currency_converte
 
 3. Download the source code of the application from the GitHub repository https://github.com/Schosmiel/CURRENCY-HEDGER.git.
