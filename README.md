@@ -11,7 +11,7 @@ This tool is easy to use and enables you to convert amounts between a variety of
 
 -pip install PySide6
 
--pip install currency_converte
+-pip install CurrencyConverter
 
 3. Download the source code of the application from the GitHub repository https://github.com/Schosmiel/CURRENCY-HEDGER.git.
 
